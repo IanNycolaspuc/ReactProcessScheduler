@@ -1,3 +1,5 @@
+// Code Review: arquivo analisado para comentários sobre estado, persistência e execução dos algoritmos.
+
 import React, { useState, useEffect } from "react";
 import useLoadProcesses from "./algorithms/Processes";
 import Sjf from "./algorithms/Sjf";

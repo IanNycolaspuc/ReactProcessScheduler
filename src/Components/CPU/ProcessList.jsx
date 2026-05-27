@@ -1,3 +1,5 @@
+// Code Review: arquivo analisado para comentários sobre listagem e renderização dos processos.
+
 import React from 'react';
 import Card from 'react-bootstrap/Card';
 import CloseButton from 'react-bootstrap/CloseButton';

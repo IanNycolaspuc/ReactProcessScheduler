@@ -1,3 +1,5 @@
+// Code Review: arquivo analisado para comentários sobre rotas e organização da aplicação.
+
 import './App.css';
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import CPU from './Components/CPU/CPU';

@@ -1,3 +1,5 @@
+// Code Review: arquivo analisado para comentários sobre exibição dos resultados da simulação.
+
 const Simulation = ({ result, selectedAlgorithm, quantum }) => {
   // Verifica se result foi passado corretamente
   if (!result || !result.processosOrdenados) {
